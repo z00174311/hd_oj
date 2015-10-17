@@ -13,12 +13,12 @@
 
 ## Sample Input
 > 1 5
-10 20 
+> 10 20 
 
 
 ## Sample Output
 > 6
-30
+> 30
 
 
 ## Author

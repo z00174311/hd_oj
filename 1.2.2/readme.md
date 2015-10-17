@@ -22,15 +22,15 @@ Each test case contains two positive integers Y and N(1<=N<=10000).
 
 ## Sample Input
 > 3
-2005 25
-1855 12
-2004 10000
+> 2005 25
+> 1855 12
+> 2004 10000
 
 
 ## Sample Output
 > 2108
-1904
-43236
+> 1904
+> 43236
 
 ## Hint
 
