@@ -20,7 +20,7 @@ So after three times he establishes that he can find the beautiful handkerchief.
 
 ## Sample Input
 > 3 2
--1 -1
+> -1 -1
 
 
 ## Sample Output
