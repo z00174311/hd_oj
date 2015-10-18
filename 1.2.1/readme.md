@@ -1,3 +1,8 @@
+注意:
+1. 此题目可以转换成这样, 对于一个有N个节点的循环链表, 判断每隔M个节点进行遍历, 能否遍历完整
+2. 实际上就是求两个数N, M是否互质(最大公约数是否为1)
+
+
 # hide handkerchief
 
 Time Limit: 10000/3000 MS (Java/Others) Memory Limit: 32768/32768 K (Java/Others)

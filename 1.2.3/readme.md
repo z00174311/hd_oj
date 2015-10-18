@@ -1,3 +1,8 @@
+注意:
+1. 两数N, M相乘的最后一位10进制数, 等于N和M的最后一位数相乘的最后一位数
+2. 1个数的指数的最后一位是周期性的, 且此周期不大于10
+
+
 # Rightmost Digit
 
 Time Limit: 2000/1000 MS (Java/Others) Memory Limit: 65536/32768 K (Java/Others)

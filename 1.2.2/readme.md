@@ -1,3 +1,8 @@
+注意:
+1. 这一题比较简单, 就是求Y年后的第N个闰年 (闰年的计算方法已经说明了)
+2. 关键要主要逻辑不要考虑复杂了
+
+
 # An Easy Task
 
 Time Limit: 2000/1000 MS (Java/Others) Memory Limit: 65536/32768 K (Java/Others)
